@@ -36,6 +36,11 @@ yarn-error.*
 # local project documentation
 local-docs/
 
+# agent-specific local tooling
+.claude/
+CLAUDE.md
+AGENTS.md
+
 # typescript
 *.tsbuildinfo
 
